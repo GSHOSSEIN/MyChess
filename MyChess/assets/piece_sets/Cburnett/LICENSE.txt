@@ -1,0 +1,3 @@
+Chess pieces by Colin M.L. Burnett (Cburnett), from Wikimedia Commons.
+Licensed under CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/) / GFDL.
+Converted from SVG to PNG for use in My Chess.
