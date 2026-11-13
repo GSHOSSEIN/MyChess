@@ -35,6 +35,16 @@ ChatGPT and Claude helped with coding, debugging, and developing ideas throughou
 MyChess is open source, so anyone can explore the code, learn from it, or contribute to the project.
 
 Thanks for checking out MyChess! ♟️
+### Third-Party Software
+
+MyChess includes Stockfish, a free and open-source chess engine.
+
+- **Project:** Stockfish
+- **License:** GNU General Public License v3.0 (GPL-3.0)
+- **Website:** https://stockfishchess.org/
+- **Source code:** https://github.com/official-stockfish/Stockfish
+
+Stockfish is developed independently by the Stockfish team.
 ## Credits
 
 MyChess was developed with help from:
