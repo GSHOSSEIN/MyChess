@@ -35,3 +35,13 @@ ChatGPT and Claude helped with coding, debugging, and developing ideas throughou
 MyChess is open source, so anyone can explore the code, learn from it, or contribute to the project.
 
 Thanks for checking out MyChess! ♟️
+## Credits
+
+MyChess was developed with help from:
+
+- **ChatGPT (OpenAI)** – Coding assistance, debugging, and ideas.
+- **Claude (Anthropic)** – Coding assistance, debugging, and development.
+
+Both AI tools played an important role in helping bring this project to life.
+
+**Main developer:** GSHOSSEIN
