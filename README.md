@@ -41,8 +41,8 @@ MyChess includes Stockfish, a free and open-source chess engine.
 
 - **Project:** Stockfish
 - **License:** GNU General Public License v3.0 (GPL-3.0)
-- **Website:** https://stockfishchess.org/
-- **Source code:** https://github.com/official-stockfish/Stockfish
+- **Website:** [https://stockfishchess.org/](https://stockfishchess.org/)
+- **Source code:** [Stockfish source (matching included version)](https://github.com/official-stockfish/Stockfish/tree/def601cc)
 
 Stockfish is developed independently by the Stockfish team.
 ## Credits
